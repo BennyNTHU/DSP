@@ -1,0 +1,12 @@
+**/*.pyc
+**/.ipynb_checkpoints/*.*
+**/*.zip
+**/*.index
+**/*.mp4
+**/*.npy
+**/*.mat
+**/*.asv
+**/*.tiff
+./Final_Project/*.png
+./Final_Project/*.jpg
+./Final_Project/*.JPG
